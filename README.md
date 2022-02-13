@@ -71,7 +71,7 @@ I am hopeful that the project will show some interesting data regarding student 
 Basing the work only on publicly available information I am hopeful to contribute to the discussion in the field of higher education, especially in connection to the challenges involving Inclusion, Diversity, Equity and Accessibility, while leaving ample room for further analysis. I am hopeful that interesting findings will emerge. 
  
  
-# References: 
+## References: 
 National Student Research Clearinghouse Research Center (NSCRC) https://nscresearchcenter.org/stay-informed/
 Gagnon-Bartsch J.A., Sales A.C., Wu E., Botelho A. F., Erickson J.A., Miratrix L.W., Heffernan N.T. (Submitted on 7 May 2021), Precise Unbiased Estimation in Randomized Experiments using Auxiliary Observational Data, Cornell University.  https://arxiv.org/abs/2105.03529 
 
