@@ -31,26 +31,27 @@ The IPDES data sets available are relatively broad and provide a lot of differen
 
 Here is an initial (and non-exhaustive) list of variables that will be selected by area of topic:
 ### -	Institution identification and characteristics information 
-Unique ID number
-State
-HBCU status
-Locality (rural vs urban etc) 
-Primary post-secondary focus 
-Open admission Policy 
-Accepting AP course credit
-ROTC program offering
-Student support services 
-Tuition support plans
-Room and Board charges
-Tuition costs
-Additional Fees  
-Faculty
+- Unique ID number
+- State
+- HBCU status
+- Locality (rural vs urban etc) 
+- Primary post-secondary focus 
+- Open admission Policy 
+- Accepting AP course credit
+- ROTC program offering
+- Student support services 
+- Tuition support plans
+- Room and Board charges
+- Tuition costs
+- Additional Fees  
+- Faculty
+ 
 ### -	Student Admissions and Enrollment data
-Admissions by race and gender
-Enrollments by raceand gender
-Secondary school average GPA, rank and record 
-SAT and/or ACT scores  
-
+- Admissions by race and gender
+- Enrollments by raceand gender
+- Secondary school average GPA, rank and record 
+- SAT and/or ACT scores  
+ 
 All of the variable choices are spread across various data sheets publicly available and can be found here: https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?gotoReportId=7&fromIpeds=true 
 
 
