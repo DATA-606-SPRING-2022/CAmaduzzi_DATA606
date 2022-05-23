@@ -1,6 +1,6 @@
-# Interim data files 
+# This Folder contains the initial stages of the project - it contains only partial information and incomplete information  
 
-I am currently still working on the data cleansing. 
+# Interim data files 
 
 I have focused initially on identifying the core Higher Education Institutions that 
 1) are degree offering institutions
@@ -9,4 +9,3 @@ I have focused initially on identifying the core Higher Education Institutions t
 
 Once identified this sub-group of institutions, I will use the HEIs IDs to extract the information about them throughout the reporting years of focus (2008-2020)
 
-I am not yet ready at this time to uplaod cleansed data files. (as of Feb 20/2022)
