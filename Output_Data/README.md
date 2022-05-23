@@ -1,3 +1,3 @@
 # Output data 
 
-As of Feb 20, 2022, I am still working on this. 
+This folder holds the graphs included in the final report and the  (mostly) cleaned data files  used for the machine learning processes
