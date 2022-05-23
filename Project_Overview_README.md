@@ -1,3 +1,7 @@
+# NOTE: A full report delineating the project process and findings can be read in the Project Report Document
+
+
+
 # CAmaduzzi_DATA606
 ## Data 606 Capstone Project
 
