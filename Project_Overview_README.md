@@ -1,4 +1,5 @@
-# NOTE: A full report delineating the project process and findings can be read in the Project Report Document
+# NOTE: A full report delineating the project process and findings can be read in the folder titled Final Project Documents 
+# Here you will find all of the final documents relating to the Capstone Project overall.
 
 
 
